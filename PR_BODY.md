@@ -22,7 +22,7 @@ Replace the placeholders after publishing this package:
   {
     "repository": "https://github.com/chiewoscar/jsp-000204-entire-maximum-term",
     "branch": "main",
-    "commit": "FULL_40_CHARACTER_COMMIT_SHA"
+    "commit": "9f2ec459b58d444c80e0e2685ebb53e6f4ae43db"
   },
   {
     "repository": "https://github.com/plby/lean-proofs",
